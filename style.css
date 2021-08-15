@@ -59,11 +59,8 @@ h1{
     font-weight:800;
 }
 
-
 #footer{
-
     width: 100%;
-    
       /* position: absolute; */
       position: fixed;
       bottom: 0;
@@ -88,8 +85,12 @@ h1{
   .footer-list > .list-item{
     list-style: none;
     font-size: 1.4rem;
-    padding: 0.5rem 1rem;
+    padding: 0.4rem 1rem 0.2rem 1rem;
   
+  }
+
+  .copyright{
+      padding-bottom: 9px;
   }
   
   .fab, .fa, .fas{
